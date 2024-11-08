@@ -1,0 +1,36 @@
+.bot{
+    z-index: 100px;
+    width: 1000px;
+}
+body{
+    background-image:url(https://i.pinimg.com/originals/3e/01/ba/3e01ba91068b2f87669038c38c9e78dd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.name{
+    font-family: serif ;
+    font-size: 25px;
+    margin-left: 1000px;
+    padding-top: -25px;
+
+}
+.sidebar-link{
+     padding-left: 600px;
+     font-size:45px;
+     padding-top: 5px;
+}
+
+.booking{
+    font-size:25px;
+    padding-left:570px;
+}
+
+.container{
+    padding-left:300px;
+
+}
+
+.text{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+}
